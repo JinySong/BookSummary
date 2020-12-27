@@ -3,7 +3,7 @@ In the age of the internet, people can get all the information they need to make
 E.g. in the aftermath of a car accident, a wife uses medical jargon to communicate with the doctor, and thereby give a status tipoff of her status as a medical professional.
 
 # How to achieve status alignment:
-Ans: research and preparation
+Ans: with research and preparation
 
 E.g. you're in real estate and speaking to a client considering moving to another state:
 1. use jargon to demonstrate you understand her industry
